@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PrinceIchi
-- 🔥 coding🧑🏽‍💻, lifting🏋🏽‍♂️, raiding🎮, growing🧘🏽‍♂️
+- 👋🏽 Hi, I’m @PrinceIchi
+- 🔥 Coding🧑🏽‍💻, Lifting🏋🏽‍♂️, Raiding🎮, Growing🧘🏽‍♂️
 - 👀 I’m interested in frontend web development
-- 💞️ I’m looking to collaborate on everything about coding
-- 📫 How to reach me ... here
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm almost 40 and learning to code
+- 🔌 I’m looking to collaborate on everything about coding and success
+- 🚹 Pronouns: He/Him
 
 [![An image of @princeichi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/princeichi)](https://holopin.io/@princeichi)
 
