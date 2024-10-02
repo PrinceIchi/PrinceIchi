@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceIchi
+- 🔥 coding🧑🏽‍💻, lifting🏋🏽‍♂️, raiding🎮, growing🧘🏽‍♂️
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning beginner javascript
 - 💞️ I’m looking to collaborate on everything about coding
 - 📫 How to reach me ... here
 - 😄 Pronouns: He/Him
