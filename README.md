@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @PrinceIchi
-- 🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Raiding🎮// Growing🧘🏽‍♂️
+- ❤️‍🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Raiding🎮// Growing🧘🏽‍♂️
 - 👀 I’m interested in Frontend Web Development
 - 🔌 I’m looking to collaborate on everything about coding and success
 - 🚹 Pronouns: He/Him
