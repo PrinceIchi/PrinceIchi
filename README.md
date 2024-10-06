@@ -1,8 +1,9 @@
 - 👋🏽 Hi, I’m @PrinceIchi
+- 🚹 He/Him
 - ❤️‍🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Raiding🎮// Growing🧘🏽‍♂️
 - 👀 I’m interested in Frontend Web Development
 - 🔌 I’m looking to collaborate on everything about coding and success
-- 🚹 Pronouns: He/Him
+- 📖 Can’t Hurt Me // Atomic Habits // 10x Rule
 
 [![An image of @princeichi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/princeichi)](https://holopin.io/@princeichi)
 
