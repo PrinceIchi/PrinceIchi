@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m @PrinceIchi
+- 👋🏽 Hi, I’m Prince
 - 🚹 He/Him
 - 👀 I’m interested in Frontend Web Development
 - 🔌 I’m looking to collaborate on everything about coding and success
