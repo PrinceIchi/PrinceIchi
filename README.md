@@ -2,7 +2,7 @@
 - 🚹 He/Him
 - 👀 I’m interested in Frontend Web Development
 - 🔌 I’m looking to collaborate on everything about coding and success
-- ❤️‍🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Raiding🎮// Growing🧘🏽‍♂️
+- ❤️‍🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Growing🧘🏽‍♂️
 - 📖 Unf*ck Yourself // Atomic Habits // 10x Rule
 
 [![An image of @princeichi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/princeichi)](https://holopin.io/@princeichi)
