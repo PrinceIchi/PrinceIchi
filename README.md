@@ -1,9 +1,6 @@
-- 👋🏽 Hi, I’m Prince
-- 🚹 He/Him
-- 👀 I’m interested in Frontend Web Development
-- 🔌 I’m looking to collaborate on everything about coding and success
-- ❤️‍🔥 Coding🧑🏽‍💻// Lifting🏋🏽‍♂️// Growing🧘🏽‍♂️
-- 📖 Unf*ck Yourself // Can't Hurt Me // Atomic Habits // 10x Rule // Deep Work
+Hi, I’m Prince. 
+I’m interested in practicing HTML/CSS/JS with fellow developers. 
+Currently working on my most important project, myself. 
 
 [![An image of @princeichi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/princeichi)](https://holopin.io/@princeichi)
 
